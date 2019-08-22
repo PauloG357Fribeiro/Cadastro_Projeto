@@ -3,5 +3,8 @@ import './Footer.css'
 
 export default props =>
     <footer className="footer">
-        Rodapé
+        <span>
+            Desenvolvido com <i className = "fa fa-heart text-danger">
+            </i> por <strong> Tecnologia Senai</strong>
+        </span>
 </footer>

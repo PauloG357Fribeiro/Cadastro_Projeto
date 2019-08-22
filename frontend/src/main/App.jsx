@@ -13,7 +13,10 @@ export default props =>
 <div className="app">
     <Logo />
     <Nav />
-    <Main icon="graduation-cap" title="Sesi Senai"
-        subtitle="Tela de cadastro" />
+    <Main icon="steam text-danger" title="Among Us"
+        subtitle="Jogo disponível na Steam" />
+        <div className = 'display-4'>Steam Ltda.</div>
+            <hr />
+            <p className="mb-0">Criar conta no jogo</p>
     <Footer />
 </div>
