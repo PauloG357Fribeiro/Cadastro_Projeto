@@ -1,5 +1,5 @@
 header.header{
-    background-color: #fff;/*Cor de fundo*/
+    background-color: rgba(233, 221, 221, 0.74);/*Cor de fundo*/
     padding: 0px 15px;/*Separar o ícone do escrito*/
     overflow: hidden;/*Não estourar espaços*/
     white-space: nowrap;/*Não estourar espaços textos*/

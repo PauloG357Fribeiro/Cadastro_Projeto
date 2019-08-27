@@ -1,6 +1,6 @@
 aside.logo{
     background-color: var(--bg--dark);
-    display: flex;
+    display: table;
     justify-content: center;
     align-items: center;
 }
