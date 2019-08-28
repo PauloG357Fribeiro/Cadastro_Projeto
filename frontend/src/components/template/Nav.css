@@ -8,7 +8,7 @@ aside.menu-area {
 .menu a{
     display: block;
     text-decoration: none;
-    color: #ffff;
+    color: rgb(255, 0, 0);
     font-weight: 300;
     padding: 15px;
 }
