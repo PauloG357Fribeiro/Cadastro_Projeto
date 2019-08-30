@@ -11,5 +11,8 @@ export default props =>
             <a href = '#/user'>
                 <i className = "fa fa-user"></i>Usuários
             </a>
+            <a href ='#/produtos'>
+                <i className = "fa fa-product-hunt"></i>Produtos
+            </a>
         </nav>
     </aside>

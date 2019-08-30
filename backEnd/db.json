@@ -1,43 +1,10 @@
 {
-  "user":[{
-    "id": 1,
-    "name": "Crispim Luiz Martins",
-    "emai": "crispimluiz@live.com"
-  },{
-    "id": 2,
-    "name": "Paulo Gabriel",
-    "emai": "paulog25.comercial@gmail.com"
-  }, {
-    "id": 3,
-    "name": "Lorenzo Humberto",
-    "emai": "lorenzopirunga@gmail.com"
-  }, {
-    "id": 4,
-    "name": "Humberto Nunes",
-    "emai": "humbertobelengao@gmail.com"
-  }, {
-    "id": 5,
-    "name": "Idê Fernandes",
-    "emai": "idefeoliri@gmail.com"
-  }, {
-    "id": 6,
-    "name": "Bruno Moragas",
-    "emai": "bmk300@gmail.com"
-  }, {
-    "id": 7,
-    "name": "Júlia Fernandes",
-    "emai": "JLF@yahoo.com"
-  }, {
-    "id": 8,
-    "name": "Igor",
-    "emai": "igorzera@outlook.com"
-  }, {
-    "id": 9,
-    "name": "Lennyn",
-    "emai": "guxtavin@hotmail.com"
-  }, {
-    "id": 10,
-    "name": "Brenda Luiza Batista Martins",
-    "emai": "poetadanoite3@gmail.com"
-  }]
+  "user": [
+    {
+      "name": "Paulo Gabriel Fernandes Ribeiro",
+      "email": "paulopirunga@gmail.com",
+      "Endereço": "paulopirunga@gmail.com",
+      "id": 1
+    }
+  ]
 }
